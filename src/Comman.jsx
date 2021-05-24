@@ -5,7 +5,9 @@ import { NavLink } from 'react-router-dom';
 const Comman = (props) => {
     return (
         <>
-        <section className="d-flex align-items-center">
+        <div className="container-fluid" id="header">
+            <div className="row">
+        <section  className="d-flex align-items-center">
         <div className="container-fluid">
             <div className="row">
                 <div className="col-10 m-auto">
@@ -26,6 +28,7 @@ const Comman = (props) => {
             </div>
         </div>
         </section>
+        </div></div>
         </>
     );
 
