@@ -38,13 +38,21 @@ a{ text-decoration: none; color: inherit;}
   margin-top: 70px;
   margin-bottom:70px;
 }
+<<<<<<< Updated upstream
 /* .contact {
+=======
+.contact {
+>>>>>>> Stashed changes
  
   width: 100%;
   height: 80vh;
   
 
+<<<<<<< Updated upstream
 } */
+=======
+}
+>>>>>>> Stashed changes
 h1{
   margin: 0 0 10px 0;
   font-size: 48px; 
